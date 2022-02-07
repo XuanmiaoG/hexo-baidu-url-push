@@ -1,0 +1,53 @@
+{
+  "_from": "hexo-baidu-url-push",
+  "_id": "hexo-baidu-url-push@0.1.3",
+  "_inBundle": false,
+  "_integrity": "sha1-VQAMqCBVfYi6G6KXeXgrynXQ3mA=",
+  "_location": "/hexo-baidu-url-push",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "hexo-baidu-url-push",
+    "name": "hexo-baidu-url-push",
+    "escapedName": "hexo-baidu-url-push",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hexo-baidu-url-push/-/hexo-baidu-url-push-0.1.3.tgz",
+  "_shasum": "55000ca820557d88ba1ba29779782bca75d0de60",
+  "_spec": "hexo-baidu-url-push",
+  "_where": "C:\\Users\\gaoy3",
+  "author": {
+    "name": "XuanmiaoG"
+  },
+  "bugs": {
+    "url": "https://github.com/XuanmiaoG/hexo-baidu-url-push/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A hexo plugin, using Baidu JS automatic link push method, submit links to Baidu",
+  "homepage": "https://github.com/XuanmiaoG/hexo-baidu-url-push#readme",
+  "keywords": [
+    "hexo",
+    "plugin",
+    "baidu",
+    "seo"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "hexo-baidu-url-push",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XuanmiaoG/hexo-baidu-url-push.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3"
+}
