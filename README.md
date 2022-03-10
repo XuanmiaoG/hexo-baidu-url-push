@@ -4,7 +4,7 @@
  [![npm](https://img.shields.io/npm/l/express.svg)](https://github.com/xuanmiaog/hexo-baidu-url-push/blob/master/LICENSE) 
 [![](https://img.shields.io/badge/npm-package-brightgreen.svg)](https://www.npmjs.com/package/hexo-baidu-url-push)
 [![](https://img.shields.io/badge/Hexo-2.4%2B-brightgreen.svg)](http://hexo.io) 
-[![](https://img.shields.io/npm/dy/hexo-baidu-url-push?label=download)](https://www.npmjs.com/package/hexo-baidu-url-push)                                                                     
+[![](https://img.shields.io/npm/dy/hexo-baidu-url-push?label=download)](https://npm-stat.com/charts.html?package=hexo-baidu-url-push&from=2018-01-10&to=2022-03-10)                                                                     
 
 
 [[CN|](https://github.com/XuanmiaoG/hexo-baidu-url-push/wiki/READEMECN)[EN](https://github.com/XuanmiaoG/hexo-baidu-url-push#readme)]
