@@ -9,7 +9,7 @@
 
 [[CN|](https://github.com/XuanmiaoG/hexo-baidu-url-push/wiki/READEMECN)[EN](https://github.com/XuanmiaoG/hexo-baidu-url-push#readme)]
 ## Announcement
-Unfortunately, Baidu webmaster service platform finally announced the end of automatic push function in December 2020, we lost a low-cost, fast link submission function, this plug-in announced the end of maintenance in 2022. You can also change the plugin to add your JS code to the blog.
+  Unfortunately, Baidu webmaster service platform finally announced the end of automatic push function in December 2020, we lost a low-cost, fast link submission function, this plug-in announced the end of maintenance in 2022. You can also change the plugin to add your JS code to the blog.
 ## Introduction
 
  ```javascripts
